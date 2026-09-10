@@ -93,3 +93,8 @@ hospital-operations-excel-analysis/
 ├── images/
 ├── docs/
 └── README.md
+```
+
+## Status
+
+🚧 Project in progress — currently importing and validating the source tables with Power Query.
